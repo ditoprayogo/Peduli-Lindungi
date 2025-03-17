@@ -1,0 +1,7 @@
+ID_CATATAN|NIK|NAMA_LENGKAP|TANGGAL|JAM|LOKASI|SUHU
+16329|02828|Ditto Prayogo|2022-02-10|00:00|BojongSari|36,5 Celcius
+25670|02828|Ditto Prayogo|2022-03-10|02:34|Pondok Petir|37,5 Celcius
+
+28272|02828|Ditto Prayogo|2022-03-10|23:35|SMK Letris Indonesia 2|35,5 Celcius
+
+64813|02828|Ditto Prayogo|2022-03-12|02:02|Curug|33,5 Celcius
